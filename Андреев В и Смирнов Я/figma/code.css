@@ -1,0 +1,45 @@
+.wrapper{
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-menu{
+    margin: 10px 0;
+    height: 40px;
+    font-size: 18px;
+    line-height: 41px;
+}
+
+.main-menu img{
+    float: left;
+    margin-left: 40px;
+}
+
+.main-menu nav{
+    float: right;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
+
+.main-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.main-menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.main-menu p{
+    float: left;
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+.banner{
+    background-image: url("img/banner.png");
+    height: 271px;
+}
