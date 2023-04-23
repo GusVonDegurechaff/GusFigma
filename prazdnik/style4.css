@@ -1,0 +1,180 @@
+.shapka {
+    background-image: url(img/1676711047_catherineasquithgallery-com-p-salatovii-fon-odnotonnii-neonovii-234.png);
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.logo {
+    font-size: 40px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.abcomp {
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    font-size: 32px;
+    text-align: center;
+}
+.ofzak0 {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 90px;
+}
+.ofzak1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.knopochki {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 90px;
+    display: flex;
+}
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.knopochki .knopki div {
+    width: 150px;
+    height: 25px;
+    background-color: rgb(52, 51, 54);
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.knopochki .knopki div input {
+    width: 150px;
+    height: 25px;
+    background-color: rgb(52, 51, 54);
+    border: none;
+}
+.dnishe1 {
+    margin-top: 1000px;
+    margin-bottom: 0%;
+    background-image: url(img/white.jpg);
+    width: 100%;
+    height: 220px;
+    position: absolute;
+}
+.comppvkd {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buyers {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.helpplz {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.knopka1 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.knopka01 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.knopka2 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.knopka02 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.knopka3 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.knopka03 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.knopka4 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.knopka04 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.knopka5 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.knopka05 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.knopka6 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.knopka06 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.knopka7 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 700px;
+}
+.knopka07 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 700px;
+}
+.knopka8 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 700px;
+}
+.knopka08 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 700px;
+}
+.dnishe2 {
+    background-image: url(img/grey.jpg);
+    position: absolute;
+    margin-top: 1200px;
+    width: 100%;
+    height: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.prava {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 10px;
+}
